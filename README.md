@@ -26,6 +26,25 @@ A React + Vite application featuring protected routing, login validation, and a 
 - React Router DOM
 - CSS Modules
 
+## Folder Structure
+auth-api-demo/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── routes/
+│   │   ├── login.jsx
+│   │   ├── dashboard.jsx
+│   │   └── ProtectedRoute.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── App.css
+├── index.html         
+├── package.json
+├── vite.config.js
+├── README.md
+├── .gitignore
+
+
 ##  Getting Started
 
 Clone the repo and run locally:
