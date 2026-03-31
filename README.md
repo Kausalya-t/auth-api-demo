@@ -1,6 +1,6 @@
 # Frontend Application
 
-A React + Vite application featuring protected routing, login validation, and a clean dashboard interface.
+A React + Vite application featuring protected routing, login validation, and a clean dashboard interface
 
 ## Live Demo
 
