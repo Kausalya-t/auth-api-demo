@@ -14,7 +14,7 @@ A React + Vite application featuring protected routing, login validation, and a 
 ##  Features
 
 - Branded login page with `sentra.world` header
-- Protected dashboard route using `ProtectedRoute`
+- Protected dashboard route using `ProtectedRoute'
 - Error feedback for missing fields (e.g. "Password is required")
 - Clean UI with responsive layout
 - Vercel deployment with GitHub integration
